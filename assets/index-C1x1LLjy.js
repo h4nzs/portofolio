@@ -94,29 +94,19 @@ Error generating stack: `+e.message+`
         <ul>
           <li>Currently developing Chat-Lite; handling small-mid web projects independently.</li>
         </ul>
-      `},{id:6,title:`Career Objectives`,html:`
+      `},{id:6,title:`Career Objectives: Cyber & Dev Focus`,html:`
         <div class="vision-background" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20vw; font-weight: 900; font-family: 'Orbitron', 'monospace'; color: transparent; background: var(--bg-name-gradient); -webkit-background-clip: text; background-clip: text; opacity: 0.1; white-space: nowrap; z-index: 1; line-height: 0.9; text-shadow: 0 0 5px rgba(0, 255, 204, 0.2), 0 0 10px rgba(0, 204, 255, 0.2), 0 0 20px rgba(204, 0, 255, 0.2), 0 0 40px rgba(255, 0, 204, 0.1); letter-spacing: -0.05em; pointer-events: none; max-width: 100vw; overflow: hidden; width: 100vw; text-align: center;">VISION</div>
         <div class="growth-background" style="position: absolute; bottom: 20%; left: 50%; transform: translateX(-50%); font-size: 12vw; font-weight: 900; font-family: 'Orbitron', 'monospace'; color: transparent; background: var(--accent-1); -webkit-background-clip: text; background-clip: text; opacity: 0.08; white-space: nowrap; z-index: 2; line-height: 0.9; text-shadow: 0 0 3px rgba(102, 204, 255, 0.15), 0 0 6px rgba(102, 204, 255, 0.15), 0 0 12px rgba(102, 204, 255, 0.15); letter-spacing: -0.05em; pointer-events: none; max-width: 100vw; overflow: hidden; width: 100vw; text-align: center;">GROWTH</div>
         <div class="career-objectives-layout">
           <div class="career-objectives-left">
-            <ul style="list-style: none; padding: 0; margin: 0; text-align: left;">
-              <li style="margin-bottom: 1.2rem; padding-left: 1.5rem; position: relative;">
-                <span style="position: absolute; left: 0; color: var(--accent-1);">●</span>
-                <strong style="color: var(--accent-1);">Lead secure fullstack projects</strong> — architecting and implementing robust security measures from frontend to backend
-              </li>
-              <li style="margin-bottom: 1.2rem; padding-left: 1.5rem; position: relative;">
-                <span style="position: absolute; left: 0; color: var(--accent-1);">●</span>
-                <strong style="color: var(--accent-1);">Innovate with IoT and ML</strong> — building intelligent connected systems with security-first approach
-              </li>
-              <li style="margin-bottom: 1.2rem; padding-left: 1.5rem; position: relative;">
-                <span style="position: absolute; left: 0; color: var(--accent-1);">●</span>
-                <strong style="color: var(--accent-1);">Contribute to open-source security research</strong> — enhancing community-driven security frameworks
-              </li>
-              <li style="margin-bottom: 1.2rem; padding-left: 1.5rem; position: relative;">
-                <span style="position: absolute; left: 0; color: var(--accent-1);">●</span>
-                <strong style="color: var(--accent-1);">Mentor next-gen developers</strong> — sharing knowledge in cybersecurity and fullstack development
-              </li>
-            </ul>
+            <h3 style="color: var(--accent-1);">[01] Cybersecurity: Zero-Trust Implementation</h3>
+            <p>Mencari peran di bidang Keamanan Siber yang memungkinkan saya untuk berkontribusi pada strategi keamanan <em>zero-trust</em>, melakukan audit kerentanan, dan merancang protokol pertahanan yang kuat. Fokus utama adalah pada keamanan aplikasi web (AppSec) dan melindungi infrastruktur digital dari ancaman siber yang berkembang.</p>
+            <br>
+            <h3 style="color: var(--accent-2);">[02] Web Development: Fullstack & Secure</h3>
+            <p>Berkeinginan untuk bergabung dengan tim pengembangan web di mana saya dapat menerapkan keterampilan Fullstack saya (Node.js/React/Vue) untuk membangun aplikasi web yang berkinerja tinggi, terukur, dan, yang paling penting, aman (Security by Design). Ingin mengkhususkan diri dalam pengembangan backend yang resisten terhadap serangan.</p>
+            <br>
+            <h3 style="color: var(--accent-3);">[03] Continuous Learning & Innovation</h3>
+            <p>Selalu berkomitmen untuk mengadopsi teknologi keamanan dan pengembangan terbaru (seperti AI/ML dalam pertahanan siber atau framework modern) untuk memastikan solusi yang saya berikan tetap mutakhir dan efisien.</p>
           </div>
           <div class="career-objectives-center">
             <img src="/portofolio/images/career.png" alt="Career Growth" style="max-width: 100%; height: auto; border-radius: 0; box-shadow: none;" class="contact-photo" />
