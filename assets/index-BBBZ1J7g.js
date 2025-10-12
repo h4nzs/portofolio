@@ -28,7 +28,50 @@ Error generating stack: `+e.message+`
         <p><strong>STMIK AMIK Bandung</strong> — <em>Bachelor of Informatics Engineering (Ongoing)</em></p>
         <p>📅 2025 – Present</p>
         <p>Focus Areas: <strong>Cybersecurity</strong>, <strong>Web Development</strong>, <strong>Network Administration</strong></p>
-      `},{id:4,title:`Projects`,projects:[{id:`chat-lite`,title:`Chat-Lite`,repo:`https://github.com/h4nzs/chat-lite`,img:`/portofolio/images/project-chat-lite.png`,short:`Lightweight real-time chat web app (fast + E2E encryption).`,long:`Chat-Lite is a modern real-time chat web app built with React + Socket.IO (frontend) and Express + Prisma (backend). Features: secure auth with JWT & httpOnly cookies, real-time messaging, message history, end-to-end encryption with libsodium, reactions, message status indicators, file/image upload, push notifications, dark/light theme, and a responsive UI optimized for low-end devices.`},{id:`anniv`,title:`Anniv (Anniversary System)`,repo:`https://github.com/h4nzs/anniv`,img:`/portofolio/images/project-anniv.png`,short:`Event/anniversary posting system built with CodeIgniter 4.`,long:`Anniv is a web app (CodeIgniter 4) for creating, displaying, and managing anniversary/event posts. Supports auth, role-based access, admin dashboard, posting & commenting, user profiles, and migration/seeders. Designed for internal events or community showcases.`},{id:`input-data`,title:`Input Data System`,repo:`https://github.com/kenziyy/input-data`,img:`/portofolio/images/project-input.png`,short:`Simple transaction input system to reduce manual errors.`,long:`Input Data is a lightweight system focused on simplifying transaction input for small businesses — streamlines data collection and minimizes manual entry errors. Built with basic web stack and easy to deploy.`}]},{id:5,title:`Professional Experience`,html:`
+      `},{id:4,title:`Projects`,projects:[{id:`chat-lite`,title:`Chat-Lite (Internal Secure Comms App)`,repo:`https://github.com/h4nzs/chat-lite`,img:`/portofolio/images/project-chat-lite.png`,short:`Lightweight real-time chat web app (fast + E2E encryption).`,long:`Chat-Lite is a modern real-time chat web app built with React + Socket.IO (frontend) and Express + Prisma (backend). Features: secure auth with JWT & httpOnly cookies, real-time messaging, message history, end-to-end encryption with libsodium, reactions, message status indicators, file/image upload, push notifications, dark/light theme, and a responsive UI optimized for low-end devices.
+          <br><br>
+          <h4>I. The Challenge</h4>
+    <p>A client required a <strong>100% secure, internal web-based communication tool</strong> for their existing web ecosystem, demanding complete data control and trust beyond third-party platforms.</p>
+    <h4>II. My Role & Solution</h4>
+    <p>Designed and developed <strong>Chat-Lite</strong>: a minimalist, secure, and feature-rich chat application. Key focus: strict security with <strong>JWT authentication protocol</strong> and implementation of <strong>end-to-end or at-rest encryption</strong> to meet client privacy standards.</p>
+    <h4>III. Impact / Results</h4>
+    <p>Successfully integrated a <strong>zero-trust, highly secure communication tool</strong>, significantly <strong>reducing data leak risk</strong> and enhancing real-time team efficiency.</p>
+    <br>
+    <p><strong><i class="fas fa-microchip"></i> Technology Stack:</strong></p>
+    <ul>
+        <li><strong>Node.js, Express.js (API Backend)</strong></li>
+        <li><strong>Socket.io (Real-time Communication)</strong></li>
+        <li><strong>React.js, Vite (Frontend Framework)</strong></li>
+        <li><strong>Libsodium (Encryption Library)</strong></li>
+        <li><strong>PostgreSQL (Database)</strong></li>
+    </ul>`},{id:`anniv`,title:`Anniv (Fullstack Social & Anonymous Platform)`,repo:`https://github.com/h4nzs/anniv`,img:`/portofolio/images/project-anniv.png`,short:`Event/anniversary posting system built with CodeIgniter 4.`,long:`Anniv is a web app (CodeIgniter 4) for creating, displaying, and managing anniversary/event posts. Supports auth, role-based access, admin dashboard, posting & commenting, user profiles, and migration/seeders. Designed for internal events or community showcases.
+          <br><br>
+          <h4>I. The Challenge</h4>
+    <p>The initial request for a simple online anniversary letter website was expanded into a unique platform opportunity combining <strong>personal emotion</strong> with <strong>community interaction</strong>.</p>
+    <h4>II. My Role & Solution</h4>
+    <p>Took on the full role of a Fullstack Developer, building <strong>Anniv</strong>. Integrated <strong>custom letter creation</strong> with a <strong>social media posting system</strong> supporting both <strong>Anonymous and Non-Anonymous comments</strong>, fostering a unique interaction environment.</p>
+    <h4>III. Impact / Results</h4>
+    <p>Successfully created a niche platform, proving my ability to <strong>develop complex fullstack systems</strong> from concept to live implementation with user-oriented community features.</p>
+    <br>
+    <p><strong><i class="fas fa-microchip"></i> Technology Stack:</strong></p>
+    <ul>
+        <li><strong>Codeigniter4 (PHP Framework)</strong></li>
+        <li><strong>MySQL (Database)</strong></li>
+        <li><strong>Vue.js (Frontend Library)</strong></li>
+    </ul>`},{id:`input-data`,title:`Simple Data Input System (Counter Efficiency)`,repo:`https://github.com/kenziyy/input-data`,img:`/portofolio/images/project-input.png`,short:`Simple transaction input system to reduce manual errors.`,long:`Input Data is a lightweight system focused on simplifying transaction input for small businesses — streamlines data collection and minimizes manual entry errors. Built with basic web stack and easy to deploy.
+          <br><br>
+          <h4>I. The Challenge</h4>
+    <p>Counter owner faced high human error rates (inputting customer numbers, transaction details), resulting in slow service and inaccurate data. The need was for a <strong>minimalist, zero-cost operational tool</strong>.</p>
+    <h4>II. My Role & Solution</h4>
+    <p>Developed a <strong>Simple Data Input System</strong> using <strong>Vanilla HTML, CSS, and JavaScript</strong>. Designed for <strong>maximum intuition</strong> to minimize errors and accelerate input. Implemented on <strong>GitHub Pages</strong> for free hosting.</p>
+    <h4>III. Impact / Results</h4>
+    <p>The tool successfully <strong>reduced transaction input errors to zero</strong> and <strong>accelerated average service time by 20%</strong>, improving bookkeeping accuracy and customer satisfaction.</p>
+    <br>
+    <p><strong><i class="fas fa-microchip"></i> Technology Stack:</strong></p>
+    <ul>
+        <li><strong>HTML, CSS, Vanilla JavaScript (Frontend)</strong></li>
+        <li><strong>GitHub Pages (Zero-cost Hosting)</strong></li>
+    </ul>`}]},{id:5,title:`Professional Experience`,html:`
         <p><strong>PT. Bentang Inspira Teknologi — IT Support Intern</strong> (📅 6 Months)</p>
         <ul>
           <li>Configured and managed company firewall systems.</li>
